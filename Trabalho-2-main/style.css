@@ -1,0 +1,18 @@
+@import url("styles/header.css");
+
+:root{
+    --amarelo: rgb(236, 187, 147);
+    --fundo-azul: rgb(39, 39, 109);
+    --lilas:purple;
+
+
+    --fonte-projeto:"Dosis";
+
+
+}
+body{
+    background-color: var(--amarelo);
+    margin: 0;
+    font-family: var(--fonte-projeto);
+
+}
